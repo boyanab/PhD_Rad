@@ -1,0 +1,327 @@
+2017-05-09 12:29:41.7147|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 50 at RepositoryViewModel.cs:319 after blocking 0.0038952s
+2017-05-09 12:26:03.6382|INFO|thread: 1|CommandLineHandler|Parsing command line arguments:
+2017-05-09 12:26:03.6702|INFO|thread: 1|CommandLineHandler|Unprocessed args: 
+2017-05-09 12:26:03.6702|INFO|thread: 1|AppInstance|Starting up as master instance of GitHub Desktop
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| #########################################
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| GitHub Desktop started. VERSION: 3.3.4.0
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| Build version: 50415dfc92210fcda6c1e5a82b0e4aec7c60bec6
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***************************************
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***        Have a problem?          ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***    Email support@github.com     ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***      and include this file      ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***                                 ***
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| ***************************************
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| OS Version: Windows 10 10.0.10586.0 amd64
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| CLR Version: 4.0.30319.42000
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| Current culture: bg-BG
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| Environment.CurrentDirectory: C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| currentProcess.StartInfo.WorkingDirectory: 
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| Terminal Services session: no
+2017-05-09 12:26:03.6832|INFO|thread: 4|StartupLogging| Location: C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14\GitHub.exe
+2017-05-09 12:26:03.6942|INFO|thread: 4|StartupLogging| ActivationUri: https://github-windows.s3.amazonaws.com/GitHub.application
+2017-05-09 12:26:03.6942|INFO|thread: 4|StartupLogging| System.Environment.CommandLine: C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14\GitHub.exe
+2017-05-09 12:26:03.7163|INFO|thread: 1|HardwareRenderingHelper|Your video card appears to support hardware rendering. If this isn't the case and you see glitches
+2017-05-09 12:26:03.7163|INFO|thread: 1|HardwareRenderingHelper|set the GH_FORCE_SW_RENDERING environment variable to 1
+2017-05-09 12:26:03.7303|INFO|thread: 4|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:26:03.7303|INFO|thread: 4|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Common Files\Autodesk Shared\;C:\Python27;C:\Users\Bonnie\OneDrive\Documents\eclipse;C:\Program Files\nodejs\;C:\Python27\Scripts;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Users\Bonnie\AppData\Roaming\npm;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:26:03.7303|INFO|thread: 4|StartupLogging| =====================================================
+2017-05-09 12:26:03.7303|INFO|thread: 4|StartupLogging|  DIAGNOSTICS                                        |
+2017-05-09 12:26:03.7303|INFO|thread: 4|StartupLogging| =====================================================
+2017-05-09 12:26:03.7303|INFO|thread: 4|StartupLogging| Git Extracted: 'True:
+2017-05-09 12:26:03.7303|INFO|thread: 4|StartupLogging| PortableGit Dir Exists: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db'
+2017-05-09 12:26:03.7303|INFO|thread: 4|StartupLogging| Git Executable Exists: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe'
+2017-05-09 12:26:03.7303|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files\Intel\WiFi\bin\'
+2017-05-09 12:26:03.7423|ERROR|thread: 4|StartupLogging| MISSING PATH!!: 'C:\Program Files\Common Files\Intel\WirelessCommon\'
+2017-05-09 12:26:03.7423|INFO|thread: 4|StartupLogging| ----------------------------------------------------
+2017-05-09 12:26:03.7423|INFO|thread: 4|StartupLogging| PATH: C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x86;C:\Program Files (x86)\Intel\OpenCL SDK\3.0\bin\x64;C:\Program Files\Lenovo\Fingerprint Manager Pro\;C:\ProgramData\Lenovo\ReadyApps;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Common Files\Autodesk Shared\;C:\Python27;C:\Users\Bonnie\OneDrive\Documents\eclipse;C:\Program Files\nodejs\;C:\Python27\Scripts;C:\Program Files (x86)\GtkSharp\2.12\bin;C:\Users\Bonnie\AppData\Roaming\npm
+2017-05-09 12:26:03.7703|INFO|thread: 1|App|Checking whether application is network deployed: True
+2017-05-09 12:26:03.7703|INFO|thread: 1|App|Shortcut C:\Users\Bonnie\AppData\Local\GitHub\GitHub.appref-ms exists? True
+2017-05-09 12:26:03.7803|INFO|thread: 4|StartupLogger|Proxy information: (None)
+2017-05-09 12:26:03.7803|INFO|thread: 4|StartupLogger|Couldn't fetch creds for proxy
+2017-05-09 12:26:03.8974|INFO|thread: 4|PortablePackageManager|Already extracted PortableGit.7z, returning 100%
+2017-05-09 12:26:03.9832|INFO|thread: 4|MsysGitCertificateInstaller|Found certificate cache, loaded 156 certificates
+2017-05-09 12:26:03.9912|INFO|thread: 4|MsysGitCertificateInstaller|Created certificate bundle with 211 entries
+2017-05-09 12:26:04.0463|INFO|thread: 4|StartupSequence|Took 163ms to Update certificate bundle from system store
+2017-05-09 12:26:04.2639|INFO|thread: 1|ClickOnceAppIconHelper|Updating registry with our application icon 'C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14\Images\App.ico'
+2017-05-09 12:26:06.8104|INFO|thread: 1|CommandLineToolsExtractor|Portable Git and Git LFS are already extracted
+2017-05-09 12:26:06.8104|INFO|thread: 1|GitClient|Installing git lfs filters
+2017-05-09 12:26:06.8255|INFO|thread: 1|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:26:06.8255|INFO|thread: 1|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:26:06.8425|INFO|thread: 1|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'lfs install --force ', Working Directory: C:\Users\Bonnie\AppData\Local\Temp\
+2017-05-09 12:26:06.8715|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ShellViewModel.
+2017-05-09 12:26:06.8715|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.DashboardViewModel.
+2017-05-09 12:26:08.4483|INFO|thread: 1|PortablePackageManager|Already extracted gitignore.7z, returning 100%
+2017-05-09 12:26:08.8892|WARN|thread: 5|LoginCache|Could not get login for host 'GitHub.HostAddress'
+System.Collections.Generic.KeyNotFoundException: The given key 'login:null' was not present in the cache.
+2017-05-09 12:26:09.9177|INFO|thread: 1|RepositoryHost|Log in from cache for login 'boyanab' to host 'https://api.github.com/' SUCCEEDED
+2017-05-09 12:26:09.9367|INFO|thread:26|ApplicationShellInitializer|Running post login tasks. ~/.gitconfig is set up with user.name = '00-BonnieB' and user.email = 'boyana.buyuklieva.14@ucl.ac.uk'
+2017-05-09 12:26:09.9367|INFO|thread:26|SshKeyHelper|Found existing SSH key pair
+2017-05-09 12:26:10.2542|INFO|thread: 5|SshKeyHelper|ssh-agent already running
+2017-05-09 12:26:10.2602|INFO|thread: 5|PortablePackageManager|Already extracted lfs-amd64.7z, returning 100%
+2017-05-09 12:26:10.2602|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:26:10.2602|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:26:10.2602|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin\ssh-add.exe', Args: '"C:\Users\Bonnie\.ssh\github_rsa"', Working Directory: C:\Users\Bonnie\AppData\Local\Temp\
+2017-05-09 12:26:10.3323|INFO|thread:14|DashboardViewModel|Selected repository '/Tutorial'
+2017-05-09 12:26:10.3523|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 1 at GitClient.cs:605
+2017-05-09 12:26:10.3523|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 1 at GitClient.cs:605 after waiting 0.0047124s
+2017-05-09 12:26:10.3523|INFO|thread:14|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 2 at GitClient.cs:583
+2017-05-09 12:26:10.3743|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 1 at GitClient.cs:605 after blocking 0.0175756s
+2017-05-09 12:26:10.3743|INFO|thread:11|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 2 at GitClient.cs:583 after waiting 0.0191732s
+2017-05-09 12:26:10.7796|INFO|thread:11|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 3 at GitClient.cs:600
+2017-05-09 12:26:10.8887|INFO|thread:11|DashboardViewModel|Took 540ms to Create RepositoryViewModel for location C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:26:10.8887|INFO|thread:11|AsyncReaderWriterLock|Released exclusive scheduler for operation: 2 at GitClient.cs:583 after blocking 0.5123289s
+2017-05-09 12:26:10.8887|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 3 at GitClient.cs:600 after waiting 0.1110942s
+2017-05-09 12:26:10.9147|INFO|thread:11|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 4 at RepositoryViewModel.cs:319
+2017-05-09 12:26:10.9147|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 4 at RepositoryViewModel.cs:319 after waiting 0.0008225s
+2017-05-09 12:26:10.9147|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 3 at GitClient.cs:600 after blocking 0.026242s
+2017-05-09 12:26:10.9678|INFO|thread:19|AsyncReaderWriterLock|Released concurrent scheduler for operation: 4 at RepositoryViewModel.cs:319 after blocking 0.0522714s
+2017-05-09 12:26:11.0759|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 5 at GitClient.cs:195
+2017-05-09 12:26:11.0759|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 5 at GitClient.cs:195 after waiting 7.71E-05s
+2017-05-09 12:26:11.0759|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 6 at RepositoryModel.cs:596
+2017-05-09 12:26:11.0759|INFO|thread:11|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 7 at RepositoryModel.cs:596
+2017-05-09 12:26:11.0759|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 6 at RepositoryModel.cs:596 after waiting 0.0056397s
+2017-05-09 12:26:11.0974|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after waiting 0.0162824s
+2017-05-09 12:26:11.1065|INFO|thread:19|AsyncReaderWriterLock|Released concurrent scheduler for operation: 5 at GitClient.cs:195 after blocking 0.0313101s
+2017-05-09 12:26:11.1065|INFO|thread:11|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 8 at NewPullRequestViewModel.cs:245
+2017-05-09 12:26:11.1065|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 8 at NewPullRequestViewModel.cs:245 after waiting 0.0011559s
+2017-05-09 12:26:11.1155|INFO|thread: 5|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 9 at GitClient.cs:267
+2017-05-09 12:26:11.1155|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 6 at RepositoryModel.cs:596 after blocking 0.0343882s
+2017-05-09 12:26:11.1155|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 7 at RepositoryModel.cs:596 after blocking 0.0186993s
+2017-05-09 12:26:11.1155|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 9 at GitClient.cs:267 after waiting 0.0002923s
+2017-05-09 12:26:11.1155|INFO|thread: 5|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:26:11.1155|INFO|thread: 5|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:26:11.1155|INFO|thread: 5|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2017-05-09 12:26:11.1786|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 8 at NewPullRequestViewModel.cs:245 after blocking 0.0650291s
+2017-05-09 12:26:11.1786|INFO|thread: 5|ConcurrentRepositoryConnection|Took 47ms to git status
+2017-05-09 12:26:11.1786|INFO|thread: 5|ConcurrentRepositoryConnection|Took 48ms to git status and parse output
+2017-05-09 12:26:11.2261|INFO|thread: 5|NewCommitViewModel|Took 110ms to load files for C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:26:11.2261|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 9 at GitClient.cs:267 after blocking 0.1102299s
+2017-05-09 12:26:12.4720|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 10 at GitClient.cs:588
+2017-05-09 12:26:12.4720|INFO|thread: 8|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 10 at GitClient.cs:588 after waiting 4.14E-05s
+2017-05-09 12:26:12.4760|INFO|thread:19|AsyncReaderWriterLock|Released concurrent scheduler for operation: 10 at GitClient.cs:588 after blocking 0.0035636s
+2017-05-09 12:26:13.1033|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 11 at BranchesViewModel.cs:356
+2017-05-09 12:26:13.1033|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 11 at BranchesViewModel.cs:356 after waiting 4.84E-05s
+2017-05-09 12:26:13.1033|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 12 at RepositoryViewModel.cs:319
+2017-05-09 12:26:13.1033|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 12 at RepositoryViewModel.cs:319 after waiting 2.9E-05s
+2017-05-09 12:26:13.1033|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 13 at OpenInExistingProgramViewModel.cs:266
+2017-05-09 12:26:13.1033|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 13 at OpenInExistingProgramViewModel.cs:266 after waiting 2.58E-05s
+2017-05-09 12:26:13.1033|INFO|thread:11|AsyncReaderWriterLock|Released concurrent scheduler for operation: 11 at BranchesViewModel.cs:356 after blocking 0.0115016s
+2017-05-09 12:26:13.1444|INFO|thread: 5|OpenInExistingProgramViewModel|Took 32ms to load solution files at C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:26:13.1444|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 13 at OpenInExistingProgramViewModel.cs:266 after blocking 0.030987s
+2017-05-09 12:26:13.1764|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 12 at RepositoryViewModel.cs:319 after blocking 0.0704936s
+2017-05-09 12:26:13.1939|INFO|thread: 1|NewCommitViewModel|Took 1967ms to render file list for C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:26:13.1939|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 14 at RepositoryViewModel.cs:319
+2017-05-09 12:26:13.1939|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 14 at RepositoryViewModel.cs:319 after waiting 2.19E-05s
+2017-05-09 12:26:13.1939|INFO|thread: 1|AsyncReaderWriterLock|Released concurrent scheduler for operation: 14 at RepositoryViewModel.cs:319 after blocking 3.89E-05s
+2017-05-09 12:26:13.1939|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 15 at RepositoryViewModel.cs:319
+2017-05-09 12:26:13.1939|INFO|thread:11|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 15 at RepositoryViewModel.cs:319 after waiting 1.84E-05s
+2017-05-09 12:26:13.2110|INFO|thread: 8|AsyncReaderWriterLock|Released concurrent scheduler for operation: 15 at RepositoryViewModel.cs:319 after blocking 0.0102611s
+2017-05-09 12:26:14.2922|INFO|thread: 8|SoftwareUpdateViewModel|Checking for new version
+2017-05-09 12:26:15.7758|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 16 at GitClient.cs:381
+2017-05-09 12:26:15.7758|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 16 at GitClient.cs:381 after waiting 0.0003486s
+2017-05-09 12:26:15.7958|INFO|thread: 8|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:26:15.7958|INFO|thread: 8|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:26:15.7958|INFO|thread: 8|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'diff-tree -r -z --no-renames --name-status 4b825dc642cb6eb9a060e54bf8d69288fbee4904 19ce9d8ff1fccf510df82d99a65f48c649b7becd ', Working Directory: C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2017-05-09 12:26:15.8963|INFO|thread: 5|AsyncReaderWriterLock|Released concurrent scheduler for operation: 16 at GitClient.cs:381 after blocking 0.1199644s
+2017-05-09 12:26:16.0094|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 17 at ICommittedFileForklift.cs:95
+2017-05-09 12:26:16.0094|INFO|thread: 5|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 17 at ICommittedFileForklift.cs:95 after waiting 0.0016255s
+2017-05-09 12:26:16.0454|INFO|thread: 4|AsyncReaderWriterLock|Released concurrent scheduler for operation: 17 at ICommittedFileForklift.cs:95 after blocking 0.034282s
+2017-05-09 12:26:16.7219|INFO|thread: 1|SelectedCommitViewModel|Took 956ms to load files for commit 01ad915 in repo C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:26:22.4222|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.OptionsViewModel.
+2017-05-09 12:26:40.1285|INFO|thread: 4|GitConfig|Saving global git configuration for user.name and user.email
+2017-05-09 12:26:40.1385|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.OptionsViewModel.
+2017-05-09 12:26:40.1624|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.ScanViewModel.
+2017-05-09 12:27:22.0277|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.ScanViewModel.
+2017-05-09 12:27:22.0277|INFO|thread: 1|ReactiveScreen|Activating GitHub.ViewModels.OptionsViewModel.
+2017-05-09 12:27:31.2819|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 18 at GitClient.cs:195
+2017-05-09 12:27:31.2819|INFO|thread: 4|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 18 at GitClient.cs:195 after waiting 2.9E-05s
+2017-05-09 12:27:31.2819|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 19 at RepositoryModel.cs:596
+2017-05-09 12:27:31.2819|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 19 at RepositoryModel.cs:596 after waiting 0.0002813s
+2017-05-09 12:27:31.2999|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 20 at GitClient.cs:267
+2017-05-09 12:27:31.3049|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 19 at RepositoryModel.cs:596 after blocking 0.0218697s
+2017-05-09 12:27:31.3049|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 20 at GitClient.cs:267 after waiting 0.0056549s
+2017-05-09 12:27:31.3219|INFO|thread:33|AsyncReaderWriterLock|Released concurrent scheduler for operation: 18 at GitClient.cs:195 after blocking 0.0395894s
+2017-05-09 12:27:31.3219|INFO|thread:37|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:27:31.3219|INFO|thread:37|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:27:31.3219|INFO|thread:37|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo\
+2017-05-09 12:27:31.4060|INFO|thread:19|ConcurrentRepositoryConnection|Took 69ms to git status
+2017-05-09 12:27:31.4060|INFO|thread:19|ConcurrentRepositoryConnection|Took 71ms to git status and parse output
+2017-05-09 12:27:31.4060|INFO|thread:19|NewCommitViewModel|Took 106ms to load files for C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:27:31.4060|INFO|thread:19|AsyncReaderWriterLock|Released concurrent scheduler for operation: 20 at GitClient.cs:267 after blocking 0.0988652s
+2017-05-09 12:27:31.4060|INFO|thread: 1|NewCommitViewModel|Took 0ms to render file list for C:\Users\Bonnie\AppData\Local\GitHub\TutorialRepository_d0aa732a2b4666b3029e2320f1a06cd39e99c9fc\new-repo
+2017-05-09 12:27:31.4060|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 21 at RepositoryViewModel.cs:319
+2017-05-09 12:27:31.4060|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 21 at RepositoryViewModel.cs:319 after waiting 3.92E-05s
+2017-05-09 12:27:31.4210|INFO|thread:45|AsyncReaderWriterLock|Released concurrent scheduler for operation: 21 at RepositoryViewModel.cs:319 after blocking 0.0130521s
+2017-05-09 12:27:34.1378|INFO|thread: 1|ReactiveScreen|Deactivating GitHub.ViewModels.OptionsViewModel.
+2017-05-09 12:27:34.1378|INFO|thread: 1|ReactiveScreen|Closed GitHub.ViewModels.OptionsViewModel.
+2017-05-09 12:27:35.6357|INFO|thread:14|DashboardViewModel|Selected repository ''
+2017-05-09 12:27:35.6357|INFO|thread:14|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 22 at GitClient.cs:605
+2017-05-09 12:27:35.6357|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 22 at GitClient.cs:605 after waiting 6.9E-05s
+2017-05-09 12:27:35.6357|INFO|thread:14|AsyncReaderWriterLock|Acquiring exclusive scheduler for operation 23 at GitClient.cs:583
+2017-05-09 12:27:35.6497|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 22 at GitClient.cs:605 after blocking 0.0121734s
+2017-05-09 12:27:35.6497|INFO|thread:42|AsyncReaderWriterLock|Acquired exclusive scheduler for operation: 23 at GitClient.cs:583 after waiting 0.0119065s
+2017-05-09 12:27:35.7573|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 24 at GitClient.cs:600
+2017-05-09 12:27:35.7773|INFO|thread:42|DashboardViewModel|Took 140ms to Create RepositoryViewModel for location C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:27:35.7773|INFO|thread:42|AsyncReaderWriterLock|Released exclusive scheduler for operation: 23 at GitClient.cs:583 after blocking 0.1276013s
+2017-05-09 12:27:35.7773|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 24 at GitClient.cs:600 after waiting 0.0205506s
+2017-05-09 12:27:35.7773|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 25 at RepositoryViewModel.cs:319
+2017-05-09 12:27:35.7773|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 25 at RepositoryViewModel.cs:319 after waiting 2.12E-05s
+2017-05-09 12:27:35.7773|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 24 at GitClient.cs:600 after blocking 0.0030475s
+2017-05-09 12:27:35.7873|WARN|thread:31|GetBranch`1|Could not resolve branch origin/master
+2017-05-09 12:27:35.7873|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 25 at RepositoryViewModel.cs:319 after blocking 0.0068501s
+2017-05-09 12:27:35.8244|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 26 at GitClient.cs:195
+2017-05-09 12:27:35.8244|INFO|thread:45|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 26 at GitClient.cs:195 after waiting 2.08E-05s
+2017-05-09 12:27:35.8244|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 27 at RepositoryModel.cs:596
+2017-05-09 12:27:35.8244|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 27 at RepositoryModel.cs:596 after waiting 0.0001567s
+2017-05-09 12:27:35.8244|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 28 at RepositoryModel.cs:596
+2017-05-09 12:27:35.8244|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 26 at GitClient.cs:195 after blocking 0.0038449s
+2017-05-09 12:27:35.8244|INFO|thread:45|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 28 at RepositoryModel.cs:596 after waiting 0.0016375s
+2017-05-09 12:27:35.8244|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 29 at GitClient.cs:267
+2017-05-09 12:27:35.8244|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 27 at RepositoryModel.cs:596 after blocking 0.0049131s
+2017-05-09 12:27:35.8244|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 29 at GitClient.cs:267 after waiting 6.22E-05s
+2017-05-09 12:27:35.8244|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 28 at RepositoryModel.cs:596 after blocking 0.0023033s
+2017-05-09 12:27:35.8374|INFO|thread:31|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:27:35.8374|INFO|thread:31|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:27:35.8374|INFO|thread:31|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\Documents\GitHub\PhD_R\
+2017-05-09 12:27:35.8734|INFO|thread:31|ConcurrentRepositoryConnection|Took 17ms to git status
+2017-05-09 12:27:35.8734|INFO|thread:31|ConcurrentRepositoryConnection|Took 17ms to git status and parse output
+2017-05-09 12:27:35.8874|INFO|thread:31|NewCommitViewModel|Took 58ms to load files for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:27:35.8874|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 29 at GitClient.cs:267 after blocking 0.0579822s
+2017-05-09 12:27:35.9434|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 30 at GitClient.cs:588
+2017-05-09 12:27:35.9434|INFO|thread:45|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 30 at GitClient.cs:588 after waiting 2.58E-05s
+2017-05-09 12:27:35.9434|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 30 at GitClient.cs:588 after blocking 0.0023999s
+2017-05-09 12:27:36.0901|INFO|thread: 1|NewCommitViewModel|Took 202ms to render file list for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:27:36.0901|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 31 at RepositoryViewModel.cs:319
+2017-05-09 12:27:36.0901|INFO|thread:31|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 31 at RepositoryViewModel.cs:319 after waiting 3.46E-05s
+2017-05-09 12:27:36.0901|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 31 at RepositoryViewModel.cs:319 after blocking 4.2E-06s
+2017-05-09 12:27:36.0901|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 32 at RepositoryViewModel.cs:319
+2017-05-09 12:27:36.0901|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 32 at RepositoryViewModel.cs:319 after waiting 1.27E-05s
+2017-05-09 12:27:36.0901|WARN|thread:37|GetBranch`1|Could not resolve branch origin/master
+2017-05-09 12:27:36.0901|WARN|thread:45|GetBranch`1|Could not resolve branch origin/master
+2017-05-09 12:27:36.0901|INFO|thread:45|AsyncReaderWriterLock|Released concurrent scheduler for operation: 32 at RepositoryViewModel.cs:319 after blocking 0.0056152s
+2017-05-09 12:27:55.1013|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 33 at RepositoryModel.cs:596
+2017-05-09 12:27:55.1013|INFO|thread:45|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 33 at RepositoryModel.cs:596 after waiting 3.53E-05s
+2017-05-09 12:27:55.1013|INFO|thread:31|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 34 at BranchSelectionViewModel.cs:191
+2017-05-09 12:27:55.1013|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 34 at BranchSelectionViewModel.cs:191 after waiting 8.63E-05s
+2017-05-09 12:27:55.1013|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 33 at RepositoryModel.cs:596 after blocking 0.0038099s
+2017-05-09 12:27:55.1204|INFO|thread:42|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:27:55.1204|INFO|thread:42|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:27:55.1204|INFO|thread:42|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'log -g --abbrev-commit --pretty=oneline HEAD -n 2500 ', Working Directory: C:\Users\Bonnie\Documents\GitHub\PhD_R\
+2017-05-09 12:27:55.1674|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 34 at BranchSelectionViewModel.cs:191 after blocking 0.0627927s
+2017-05-09 12:27:55.1674|WARN|thread: 1|BranchSelectionViewModel|Couldn't refresh branches
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at GitHub.ViewModels.BranchSelectionViewModel.<>c__DisplayClass23.<RefreshBranchesImpl>b__1c(IReadOnlyList`1 allBranches, IList`1 recentBranchNames, IHeadModel head)
+   at System.Reactive.Linq.ObservableImpl.CombineLatest`4._.GetResult()
+   at System.Reactive.Linq.ObservableImpl.CombineLatestSink`1.Next(Int32 index)
+2017-05-09 12:28:21.9535|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 35 at GitClient.cs:195
+2017-05-09 12:28:21.9535|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 35 at GitClient.cs:195 after waiting 7.32E-05s
+2017-05-09 12:28:21.9535|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 36 at RepositoryModel.cs:596
+2017-05-09 12:28:21.9685|INFO|thread:19|AsyncReaderWriterLock|Released concurrent scheduler for operation: 35 at GitClient.cs:195 after blocking 0.0151158s
+2017-05-09 12:28:21.9685|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 36 at RepositoryModel.cs:596 after waiting 0.0139762s
+2017-05-09 12:28:21.9915|INFO|thread:42|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 37 at GitClient.cs:267
+2017-05-09 12:28:21.9915|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 36 at RepositoryModel.cs:596 after blocking 0.0223057s
+2017-05-09 12:28:21.9915|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 37 at GitClient.cs:267 after waiting 0.0003581s
+2017-05-09 12:28:22.0286|INFO|thread:37|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:28:22.0286|INFO|thread:37|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:28:22.0286|INFO|thread:37|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\Documents\GitHub\PhD_R\
+2017-05-09 12:28:22.0691|INFO|thread:19|ConcurrentRepositoryConnection|Took 29ms to git status
+2017-05-09 12:28:22.0691|INFO|thread:19|ConcurrentRepositoryConnection|Took 31ms to git status and parse output
+2017-05-09 12:28:22.0691|INFO|thread:19|NewCommitViewModel|Took 80ms to load files for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:28:22.0691|INFO|thread:19|AsyncReaderWriterLock|Released concurrent scheduler for operation: 37 at GitClient.cs:267 after blocking 0.0797535s
+2017-05-09 12:28:22.1502|INFO|thread: 1|NewCommitViewModel|Took 78ms to render file list for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:28:22.1502|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 38 at RepositoryViewModel.cs:319
+2017-05-09 12:28:22.1502|INFO|thread:37|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 38 at RepositoryViewModel.cs:319 after waiting 0.0001769s
+2017-05-09 12:28:22.1732|WARN|thread:31|GetBranch`1|Could not resolve branch origin/master
+2017-05-09 12:28:22.1732|INFO|thread:31|AsyncReaderWriterLock|Released concurrent scheduler for operation: 38 at RepositoryViewModel.cs:319 after blocking 0.0210589s
+2017-05-09 12:29:18.4941|INFO|thread: 7|CrossProcessMessageBus|Another instance started and signaled us.
+2017-05-09 12:29:18.4941|INFO|thread: 7|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/00-BonnieB/R'
+2017-05-09 12:29:18.5061|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 39 at GitClient.cs:195
+2017-05-09 12:29:18.5061|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 39 at GitClient.cs:195 after waiting 3.53E-05s
+2017-05-09 12:29:18.5061|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 40 at RepositoryModel.cs:596
+2017-05-09 12:29:18.5061|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 40 at RepositoryModel.cs:596 after waiting 0.0017883s
+2017-05-09 12:29:18.5061|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 39 at GitClient.cs:195 after blocking 0.0055848s
+2017-05-09 12:29:18.5061|INFO|thread:37|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 41 at GitClient.cs:267
+2017-05-09 12:29:18.5061|INFO|thread:19|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 41 at GitClient.cs:267 after waiting 2.79E-05s
+2017-05-09 12:29:18.5061|INFO|thread:37|AsyncReaderWriterLock|Released concurrent scheduler for operation: 40 at RepositoryModel.cs:596 after blocking 0.0056393s
+2017-05-09 12:29:18.5061|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/00-BonnieB/R'
+2017-05-09 12:29:18.5232|INFO|thread:42|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:29:18.5232|INFO|thread:42|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:29:18.5232|INFO|thread:42|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\Documents\GitHub\PhD_R\
+2017-05-09 12:29:18.6459|INFO|thread:42|ConcurrentRepositoryConnection|Took 121ms to git status
+2017-05-09 12:29:18.6459|INFO|thread:42|ConcurrentRepositoryConnection|Took 121ms to git status and parse output
+2017-05-09 12:29:18.6569|INFO|thread:42|NewCommitViewModel|Took 142ms to load files for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:29:18.6569|INFO|thread:42|AsyncReaderWriterLock|Released concurrent scheduler for operation: 41 at GitClient.cs:267 after blocking 0.1428814s
+2017-05-09 12:29:18.6569|INFO|thread: 1|NewCommitViewModel|Took 4ms to render file list for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:29:18.6569|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 42 at RepositoryViewModel.cs:319
+2017-05-09 12:29:18.6569|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 42 at RepositoryViewModel.cs:319 after waiting 2.9E-05s
+2017-05-09 12:29:18.6659|WARN|thread:34|GetBranch`1|Could not resolve branch origin/master
+2017-05-09 12:29:18.6659|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 42 at RepositoryViewModel.cs:319 after blocking 0.004311s
+2017-05-09 12:29:18.8872|WARN|thread:42|StandardUserErrors|Showing user error Please check your log file for more details, or contact out support team if you are still having problems.
+Octokit.NotFoundException: Not Found
+   at Octokit.Connection.HandleErrors(IResponse response)
+   at Octokit.Connection.<RunRequest>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.Connection.<Run>d__23`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2017-05-09 12:29:33.2696|INFO|thread: 7|CrossProcessMessageBus|Another instance started and signaled us.
+2017-05-09 12:29:33.2696|INFO|thread: 7|CommandLineHandler|Another app instance has asked us to clone this repo: 'https://github.com/00-BonnieB/R'
+2017-05-09 12:29:33.2716|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 43 at GitClient.cs:195
+2017-05-09 12:29:33.2716|INFO|thread:41|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 43 at GitClient.cs:195 after waiting 3.18E-05s
+2017-05-09 12:29:33.2716|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 44 at RepositoryModel.cs:596
+2017-05-09 12:29:33.2716|INFO|thread:38|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 44 at RepositoryModel.cs:596 after waiting 0.0002148s
+2017-05-09 12:29:33.2716|INFO|thread: 1|DashboardViewModel|Received request to clone: 'https://github.com/00-BonnieB/R'
+2017-05-09 12:29:33.2716|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 43 at GitClient.cs:195 after blocking 0.0051767s
+2017-05-09 12:29:33.2716|INFO|thread:38|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 45 at GitClient.cs:267
+2017-05-09 12:29:33.2716|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 44 at RepositoryModel.cs:596 after blocking 0.0049272s
+2017-05-09 12:29:33.2716|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 45 at GitClient.cs:267 after waiting 1.34E-05s
+2017-05-09 12:29:33.2716|INFO|thread:42|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:29:33.2716|INFO|thread:42|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:29:33.2716|INFO|thread:42|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\Documents\GitHub\PhD_R\
+2017-05-09 12:29:33.4248|INFO|thread:34|ConcurrentRepositoryConnection|Took 136ms to git status
+2017-05-09 12:29:33.4248|INFO|thread:34|ConcurrentRepositoryConnection|Took 136ms to git status and parse output
+2017-05-09 12:29:33.4278|INFO|thread:34|NewCommitViewModel|Took 151ms to load files for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:29:33.4278|INFO|thread:34|AsyncReaderWriterLock|Released concurrent scheduler for operation: 45 at GitClient.cs:267 after blocking 0.1512336s
+2017-05-09 12:29:33.4278|INFO|thread: 1|NewCommitViewModel|Took 9ms to render file list for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:29:33.4278|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 46 at RepositoryViewModel.cs:319
+2017-05-09 12:29:33.4278|INFO|thread:34|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 46 at RepositoryViewModel.cs:319 after waiting 4.1E-05s
+2017-05-09 12:29:33.4453|WARN|thread:41|GetBranch`1|Could not resolve branch origin/master
+2017-05-09 12:29:33.4453|INFO|thread:41|AsyncReaderWriterLock|Released concurrent scheduler for operation: 46 at RepositoryViewModel.cs:319 after blocking 0.0050992s
+2017-05-09 12:29:33.5636|WARN|thread:38|StandardUserErrors|Showing user error Please check your log file for more details, or contact out support team if you are still having problems.
+Octokit.NotFoundException: Not Found
+   at Octokit.Connection.HandleErrors(IResponse response)
+   at Octokit.Connection.<RunRequest>d__27.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.Connection.<Run>d__23`1.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Octokit.ApiConnection.<Get>d__0`1.MoveNext()
+2017-05-09 12:29:41.5646|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 47 at GitClient.cs:195
+2017-05-09 12:29:41.5646|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 48 at RepositoryModel.cs:596
+2017-05-09 12:29:41.5646|INFO|thread:43|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 47 at GitClient.cs:195 after waiting 0.0011934s
+2017-05-09 12:29:41.5646|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 48 at RepositoryModel.cs:596 after waiting 0.0010504s
+2017-05-09 12:29:41.6036|INFO|thread:38|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 49 at GitClient.cs:267
+2017-05-09 12:29:41.6036|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 48 at RepositoryModel.cs:596 after blocking 0.037922s
+2017-05-09 12:29:41.6036|INFO|thread:42|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 49 at GitClient.cs:267 after waiting 0.0001277s
+2017-05-09 12:29:41.6196|INFO|thread:41|AsyncReaderWriterLock|Released concurrent scheduler for operation: 47 at GitClient.cs:195 after blocking 0.05418s
+2017-05-09 12:29:41.6196|INFO|thread:38|GitEnvironment|Process set up with this SSH Agent info: 11856:/tmp/ssh-jV6lPAfd73e8/agent.12100
+2017-05-09 12:29:41.6196|INFO|thread:38|GitEnvironment|PATH is C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\bin;C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\usr\share\git-tfs;C:\Users\Bonnie\AppData\Local\Apps\2.0\NNEQZGWK.X4T\6079O427.K4R\gith..tion_317444273a93ac29_0003.0003_5794af8169eeff14;C:\Users\Bonnie\AppData\Local\GitHub\lfs-amd64_1.5.5;C:\WINDOWS\System32;C:\Program Files (x86)\MSBuild\14.0\bin\;C:\Program Files (x86)\Microsoft SDKs\Windows\v8.1A\bin\NETFX 4.5.1 Tools\x64
+2017-05-09 12:29:41.6316|INFO|thread:38|ProcessWrapper|Starting: Process - FileName: 'C:\Users\Bonnie\AppData\Local\GitHub\PortableGit_f02737a78695063deace08e96d5042710d3e32db\cmd\git.exe', Args: 'status --untracked-files=all --porcelain -z ', Working Directory: C:\Users\Bonnie\Documents\GitHub\PhD_R\
+2017-05-09 12:29:41.7077|INFO|thread:38|ConcurrentRepositoryConnection|Took 47ms to git status
+2017-05-09 12:29:41.7077|INFO|thread:38|ConcurrentRepositoryConnection|Took 48ms to git status and parse output
+2017-05-09 12:29:41.7147|INFO|thread:38|NewCommitViewModel|Took 110ms to load files for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:29:41.7147|INFO|thread:38|AsyncReaderWriterLock|Released concurrent scheduler for operation: 49 at GitClient.cs:267 after blocking 0.1105297s
+2017-05-09 12:29:41.7147|INFO|thread: 1|NewCommitViewModel|Took 2ms to render file list for C:\Users\Bonnie\Documents\GitHub\PhD_R
+2017-05-09 12:29:41.7147|INFO|thread: 1|AsyncReaderWriterLock|Acquiring concurrent scheduler for operation 50 at RepositoryViewModel.cs:319
+2017-05-09 12:29:41.7147|INFO|thread:38|AsyncReaderWriterLock|Acquired concurrent scheduler for operation: 50 at RepositoryViewModel.cs:319 after waiting 2.33E-05s
+2017-05-09 12:29:41.7147|WARN|thread:42|GetBranch`1|Could not resolve branch origin/master
